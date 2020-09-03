@@ -1,0 +1,17 @@
+name: sps620env
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - jupyter
+  - nltk
+  - scipy
+  - numpy
+  - pandas
+  - seaborn
+  - scikit-learn
+  - networkx[version='<2']
+  - jupyterlab
+  - numba
+  - cython
+
