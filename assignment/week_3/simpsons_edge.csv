@@ -1,0 +1,226 @@
+Source,Target,Weight
+'Marge Simpson','Homer Simpson',441
+'Bart Simpson','Homer Simpson',438
+'Lisa Simpson','Homer Simpson',402
+'Bart Simpson','Marge Simpson',393
+'Lisa Simpson','Bart Simpson',380
+'Lisa Simpson','Marge Simpson',356
+"'Charles Montgomery \""Monty\"" Burns'",'Homer Simpson',138
+'Milhouse Van Houten','Bart Simpson',121
+"'Charles Montgomery \""Monty\"" Burns'",'Marge Simpson',116
+'Milhouse Van Houten','Homer Simpson',115
+"'Charles Montgomery \""Monty\"" Burns'",'Bart Simpson',114
+'Maggie Simpson','Homer Simpson',112
+'Maggie Simpson','Marge Simpson',108
+'Milhouse Van Houten','Marge Simpson',107
+'Moe Szyslak','Homer Simpson',105
+'Milhouse Van Houten','Lisa Simpson',104
+"'Charles Montgomery \""Monty\"" Burns'",'Lisa Simpson',103
+'Maggie Simpson','Bart Simpson',101
+'Maggie Simpson','Lisa Simpson',100
+'Principal Seymour Skinner','Bart Simpson',95
+'Principal Seymour Skinner','Homer Simpson',93
+'Ned Flanders','Homer Simpson',92
+'Chief Clancy Wiggum','Homer Simpson',91
+'Moe Szyslak','Marge Simpson',90
+'Moe Szyslak','Bart Simpson',87
+'Moe Szyslak','Lisa Simpson',87
+'Principal Seymour Skinner','Lisa Simpson',84
+'Principal Seymour Skinner','Marge Simpson',83
+'Ned Flanders','Marge Simpson',80
+'Carl Carlson','Homer Simpson',80
+'Chief Clancy Wiggum','Marge Simpson',79
+'Ned Flanders','Bart Simpson',79
+'Chief Clancy Wiggum','Bart Simpson',78
+'Selma Bouvier','Homer Simpson',77
+'Chief Clancy Wiggum','Lisa Simpson',73
+'Carl Carlson','Marge Simpson',72
+'Selma Bouvier','Bart Simpson',71
+'Ned Flanders','Lisa Simpson',70
+'Selma Bouvier','Marge Simpson',68
+'Selma Bouvier','Lisa Simpson',68
+'Carl Carlson','Bart Simpson',65
+'Carl Carlson','Lisa Simpson',63
+'Waylon Smithers','Homer Simpson',60
+'Barney Gumble','Homer Simpson',57
+'Patty Bouvier','Homer Simpson',56
+'Waylon Smithers',"'Charles Montgomery \""Monty\"" Burns'",53
+'Patty Bouvier','Bart Simpson',51
+'Barney Gumble','Marge Simpson',51
+'Patty Bouvier','Marge Simpson',50
+'Selma Bouvier','Patty Bouvier',49
+"'Mayor \""Diamond Joe\"" Quimby'",'Homer Simpson',49
+'Barney Gumble','Bart Simpson',47
+'Apu Nahasapeemapetilon','Homer Simpson',46
+'Patty Bouvier','Lisa Simpson',46
+'Barney Gumble','Lisa Simpson',46
+"'Mayor \""Diamond Joe\"" Quimby'",'Lisa Simpson',46
+'Waylon Smithers','Bart Simpson',45
+'Waylon Smithers','Marge Simpson',44
+"'Mayor \""Diamond Joe\"" Quimby'",'Marge Simpson',44
+"'Mayor \""Diamond Joe\"" Quimby'",'Bart Simpson',42
+'Professor John Frink','Homer Simpson',41
+'Santa\'s Little Helper','Bart Simpson',40
+'Apu Nahasapeemapetilon','Marge Simpson',39
+'Santa\'s Little Helper','Homer Simpson',39
+'Santa\'s Little Helper','Marge Simpson',38
+'Waylon Smithers','Lisa Simpson',38
+'Milhouse Van Houten','Principal Seymour Skinner',38
+'Carl Carlson',"'Charles Montgomery \""Monty\"" Burns'",38
+'Carl Carlson','Moe Szyslak',38
+'Jimbo Jones','Homer Simpson',37
+'Jimbo Jones','Bart Simpson',37
+'Professor John Frink','Bart Simpson',37
+'Jimbo Jones','Marge Simpson',36
+'Professor John Frink','Lisa Simpson',36
+'Santa\'s Little Helper','Lisa Simpson',35
+'Apu Nahasapeemapetilon','Bart Simpson',34
+'Apu Nahasapeemapetilon','Lisa Simpson',32
+'Moe Szyslak',"'Charles Montgomery \""Monty\"" Burns'",32
+'Dolph Starbeam','Bart Simpson',31
+'Jimbo Jones','Lisa Simpson',31
+'Kearney Zzyzwicz','Jimbo Jones',30
+'Kent Brockman','Homer Simpson',30
+'Professor John Frink','Marge Simpson',30
+'Dolph Starbeam','Homer Simpson',29
+'Dolph Starbeam','Marge Simpson',29
+'Jimbo Jones','Dolph Starbeam',29
+'Kearney Zzyzwicz','Bart Simpson',29
+"'Charles Montgomery \""Monty\"" Burns'",'Maggie Simpson',29
+'Kent Brockman','Marge Simpson',29
+'Dolph Starbeam','Lisa Simpson',28
+'Kearney Zzyzwicz','Homer Simpson',28
+'Kearney Zzyzwicz','Marge Simpson',28
+'Kearney Zzyzwicz','Dolph Starbeam',28
+'Reverend Timothy Lovejoy','Homer Simpson',28
+'Reverend Timothy Lovejoy','Marge Simpson',28
+'Moe Szyslak','Chief Clancy Wiggum',28
+'Moe Szyslak','Barney Gumble',28
+'Milhouse Van Houten',"'Charles Montgomery \""Monty\"" Burns'",28
+'Milhouse Van Houten','Moe Szyslak',28
+'Reverend Timothy Lovejoy','Bart Simpson',27
+'Ned Flanders',"'Charles Montgomery \""Monty\"" Burns'",27
+'Moe Szyslak','Maggie Simpson',27
+'Kent Brockman','Bart Simpson',27
+'Kent Brockman','Lisa Simpson',27
+'Kearney Zzyzwicz','Lisa Simpson',26
+'Reverend Timothy Lovejoy','Lisa Simpson',26
+'Milhouse Van Houten','Maggie Simpson',26
+'Milhouse Van Houten','Selma Bouvier',26
+'Principal Seymour Skinner','Chief Clancy Wiggum',25
+'Chief Clancy Wiggum','Maggie Simpson',24
+'Milhouse Van Houten','Ned Flanders',24
+'Itchy and Scratchy','Bart Simpson',24
+"'Charles Montgomery \""Monty\"" Burns'",'Chief Clancy Wiggum',23
+'Moe Szyslak','Selma Bouvier',23
+'Itchy and Scratchy','Lisa Simpson',23
+'Grampa Abraham Simpson','Homer Simpson',23
+'Barney Gumble',"'Charles Montgomery \""Monty\"" Burns'",22
+'Moe Szyslak','Principal Seymour Skinner',22
+'Milhouse Van Houten','Chief Clancy Wiggum',22
+'Carl Carlson','Milhouse Van Houten',22
+'Superintendent Gary Chalmers','Bart Simpson',22
+'Superintendent Gary Chalmers','Lisa Simpson',22
+'Itchy and Scratchy','Homer Simpson',22
+'Itchy and Scratchy','Marge Simpson',21
+'Grampa Abraham Simpson','Marge Simpson',21
+'Selma Bouvier','Maggie Simpson',20
+'Moe Szyslak','Waylon Smithers',20
+'Superintendent Gary Chalmers','Homer Simpson',20
+'Superintendent Gary Chalmers','Principal Seymour Skinner',20
+'Grampa Abraham Simpson','Bart Simpson',20
+'Ned Flanders','Chief Clancy Wiggum',19
+'Moe Szyslak','Ned Flanders',19
+'Carl Carlson','Chief Clancy Wiggum',19
+'Carl Carlson','Barney Gumble',19
+'Sideshow Bob','Bart Simpson',18
+'Ned Flanders','Maggie Simpson',18
+'Principal Seymour Skinner','Maggie Simpson',18
+'Principal Seymour Skinner','Selma Bouvier',18
+'Moe Szyslak','Apu Nahasapeemapetilon',18
+'Milhouse Van Houten','Patty Bouvier',18
+'Carl Carlson','Maggie Simpson',18
+'Carl Carlson','Selma Bouvier',18
+'Sideshow Bob','Homer Simpson',17
+'Carl Carlson','Waylon Smithers',17
+"'Mayor \""Diamond Joe\"" Quimby'",'Milhouse Van Houten',17
+'Grampa Abraham Simpson','Lisa Simpson',17
+'Chief Clancy Wiggum','Apu Nahasapeemapetilon',16
+'Barney Gumble','Maggie Simpson',16
+'Barney Gumble','Chief Clancy Wiggum',16
+'Principal Seymour Skinner','Ned Flanders',16
+'Superintendent Gary Chalmers','Marge Simpson',16
+'Sideshow Bob','Lisa Simpson',15
+'Ned Flanders','Selma Bouvier',15
+'Principal Seymour Skinner','Jimbo Jones',15
+'Snowball','Bart Simpson',15
+'Snowball','Lisa Simpson',15
+'Moe Szyslak','Patty Bouvier',15
+'Milhouse Van Houten','Jimbo Jones',15
+"'Mayor \""Diamond Joe\"" Quimby'","'Charles Montgomery \""Monty\"" Burns'",15
+'Sideshow Bob','Marge Simpson',14
+'Patty Bouvier','Maggie Simpson',14
+'Selma Bouvier','Chief Clancy Wiggum',14
+'Principal Seymour Skinner',"'Charles Montgomery \""Monty\"" Burns'",14
+'Waylon Smithers','Principal Seymour Skinner',14
+'Snowball','Homer Simpson',14
+'Moe Szyslak','Jimbo Jones',14
+'Milhouse Van Houten','Apu Nahasapeemapetilon',14
+"'Mayor \""Diamond Joe\"" Quimby'",'Principal Seymour Skinner',14
+'Chief Clancy Wiggum','Jimbo Jones',13
+"'Charles Montgomery \""Monty\"" Burns'",'Selma Bouvier',13
+'Ned Flanders','Reverend Timothy Lovejoy',13
+'Barney Gumble','Selma Bouvier',13
+'Santa\'s Little Helper','Maggie Simpson',13
+'Principal Seymour Skinner','Barney Gumble',13
+'Waylon Smithers','Maggie Simpson',13
+'Moe Szyslak','Santa\'s Little Helper',13
+'Milhouse Van Houten','Santa\'s Little Helper',13
+'Kent Brockman',"'Charles Montgomery \""Monty\"" Burns'",13
+"'Mayor \""Diamond Joe\"" Quimby'",'Chief Clancy Wiggum',13
+'Professor John Frink',"'Charles Montgomery \""Monty\"" Burns'",13
+'Jimbo Jones','Maggie Simpson',12
+'Lionel Hutz','Homer Simpson',12
+'Lionel Hutz','Marge Simpson',12
+"'Charles Montgomery \""Monty\"" Burns'",'Apu Nahasapeemapetilon',12
+'Ned Flanders','Patty Bouvier',12
+'Barney Gumble','Apu Nahasapeemapetilon',12
+'Santa\'s Little Helper',"'Charles Montgomery \""Monty\"" Burns'",12
+'Principal Seymour Skinner','Dolph Starbeam',12
+'Principal Seymour Skinner','Kearney Zzyzwicz',12
+'Principal Seymour Skinner','Apu Nahasapeemapetilon',12
+'Waylon Smithers','Chief Clancy Wiggum',12
+'Snowball','Marge Simpson',12
+'Moe Szyslak','Dolph Starbeam',12
+'Milhouse Van Houten','Barney Gumble',12
+'Carl Carlson','Patty Bouvier',12
+'Carl Carlson','Ned Flanders',12
+'Carl Carlson','Principal Seymour Skinner',12
+'The Rich Texan','Homer Simpson',12
+"'Mayor \""Diamond Joe\"" Quimby'",'Moe Szyslak',12
+'Professor John Frink','Maggie Simpson',12
+'Professor John Frink','Moe Szyslak',12
+'Jasper Beardly','Homer Simpson',11
+'Lionel Hutz','Bart Simpson',11
+'Lionel Hutz','Lisa Simpson',11
+'Principal Seymour Skinner','Patty Bouvier',11
+'Moe Szyslak','Kearney Zzyzwicz',11
+'Milhouse Van Houten','Dolph Starbeam',11
+'Milhouse Van Houten','Kearney Zzyzwicz',11
+'Carl Carlson','Santa\'s Little Helper',11
+'The Rich Texan','Bart Simpson',11
+'The Rich Texan','Lisa Simpson',11
+"'Mayor \""Diamond Joe\"" Quimby'",'Selma Bouvier',11
+'Professor John Frink','Selma Bouvier',11
+'Professor John Frink','Principal Seymour Skinner',11
+'Professor John Frink','Milhouse Van Houten',11
+'Apu Nahasapeemapetilon','Maggie Simpson',10
+'Jasper Beardly','Bart Simpson',10
+'Jasper Beardly','Lisa Simpson',10
+'Principal Seymour Skinner','Santa\'s Little Helper',10
+'Milhouse Van Houten','Waylon Smithers',10
+'The Rich Texan','Marge Simpson',10
+"'Mayor \""Diamond Joe\"" Quimby'",'Maggie Simpson',10
+"'Mayor \""Diamond Joe\"" Quimby'",'Carl Carlson',10
+'Professor John Frink','Chief Clancy Wiggum',10
+'Grampa Abraham Simpson',"'Charles Montgomery \""Monty\"" Burns'",10
