@@ -20,11 +20,7 @@ from pyvis import network as net
 
 warnings.filterwarnings('ignore')
 
-stocks = pd.read_csv('https://raw.githubusercontent.com/myvioletrose/data620_team/master/project/project_2/sp500_Sep2020.csv',
-                 sep=',',
-                 header=1,
-                 names=['symbol','datekey','close','previous_close','direction','company_name','sector'],
-                 encoding="ISO-8859-1")
+stocks = pd.read_csv('https://raw.githubusercontent.com/myvioletrose/data620_team/master/project/project_2/sp500_Sep2020.csv',encoding="ISO-8859-1")
 
 stocks2 = stocks
 
@@ -95,50 +91,9 @@ new_df2 = new_df
 maxdf = new_df2.groupby(['company_name_x'])['freq'].max()
 
 
-new_df = new_df[(new_df.freq>1)]
+new_df = new_df[(new_df.freq>2)]
 
 
-
-########################################## TRYING TO FIGURE OUT WHICH STOCKS HAVE NO CONNETIONS TO THE REST OF THE MARKET ###############################################################
-no_matches = pd.merge(new_df2, weights,  how='outer', left_on=['symbol_x'], right_on = ['symbol_x'])
-
-no_matches = no_matches.freq_x.null()
-
-
-weights2 = weights.symbol_x
-weights3 = weights.symbol_y
-weights4 = weights2.append(weights3)
-
-weights4.nunique()
-
-stocks.symbol.nunique()
-
-
-weights['symbol'] = weights['symbol_x']
-
-weights2 = weights.loc[:,['symbol']].reset_index()
-
-
-stocks2 = stocks.loc[:,['symbol']].reset_index()
-
-
-stocks.where(stocks.symbol==weights.symbol)
-
-#not_in = stocks[~stocks.isin(weights.to_dict('l')).all(1)]
-
-#not_in = stocks2.drop(stocks2.merge(weights2).index)
-
-not_in = pd.merge(stocks,weights, on = 'symbol',how = 'left')
-
-not_in2 = not_in.loc[pd.isnull(not_in.freq)]
-
-not_in = not_in.loc[:,['symbol']]
-
-not_in = not_in.symbol.drop_duplicates
-
-len(not_in2.symbol.unique())
-
-not_in2.symbol.unique()
 
 #######################################################################################################################################################################
 #######################################################################################################################################################################
@@ -189,7 +144,7 @@ neighbor_map = class_net.get_adj_list()
 for node in class_net.nodes:
     node["title"] = node["group"]+ " " + node["title"] + "'s Neighbors:<br>" + "<br>".join(neighbor_map[node["id"]])
     node["value"] = len(neighbor_map[node["id"]])
-class_net.show("stocks2.html")
+class_net.show("stocks_network_analysis.html")
 
 
 
