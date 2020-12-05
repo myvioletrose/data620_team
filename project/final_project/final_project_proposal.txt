@@ -1,0 +1,6 @@
+# Final Project Proposal
+
+In this final project, we are looking at S&P 500 stocks in November 2020. We decide to split the project into two parts. Part one is about sentiment analysis on the top 1% and bottom 1% of stocks. We decide to look at the best and worst performers (based on percent change in stock price), and conduct a sentiment analysis using twitter. Part two is about network anlaysis on the 500+ stocks from the S&P 500 list. 
+
+This November is such a historical month, e.g. COVID, election, Dow Jones best month since 1987, Nasdaq best November since 2001 and S&P 500 best November since 1928. We are excited to apply text mining and network analysis to uncover any interesting insight from this volatile month. 
+
