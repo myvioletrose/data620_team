@@ -4,3 +4,5 @@ In this final project, we are looking at S&P 500 stocks in November 2020. We dec
 
 This November is such a historical month, e.g. COVID, election, Dow Jones best month since 1987, Nasdaq best November since 2001 and S&P 500 best November since 1928. We are excited to apply text mining and network analysis to uncover any interesting insight from this volatile month. 
 
+Part Two Details
+-- To expand what was already done we will not only look at what was already done for the network analysis piece we will not only be looking at what stock prices move together but also what some leading indicators are the for the market. For example a certain stock going up a certain day signifies that the next day a different stock will have it's price increase or decrease
